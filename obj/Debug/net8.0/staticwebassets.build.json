@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mYL61yZE8fCzyghuTc4BnB4IEhc+a9CAMjARNlN589c=",
+  "Source": "IdentityUserRegistration",
+  "BasePath": "_content/IdentityUserRegistration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
